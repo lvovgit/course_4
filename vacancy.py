@@ -1,7 +1,7 @@
 class Vacancy:
     __slots__ = ('name', 'url', 'description', 'salary', 'date_published')
 
-    def __init__(self,  data: dict):
+    def __init__(self, data: dict):
         self.name = data['name']
         self.url = data['url']
         self.description = data['description']
@@ -12,27 +12,19 @@ class Vacancy:
         return f'Вакансия - {self.name}, заработная плата - {self.salary()}'
 
 
-# class CountMixin:
-#
-#     @property
-#     def get_count_of_vacancy(self):
-#         """
-#         Вернуть количество вакансий от текущего сервиса.
-#         Получать количество необходимо динамически из файла.
-#         """
-#         pass
-#
+# class ClassMixin:
 
 
-class HHVacancy(Vacancy):  # add counter mixin
+
+
+class HHVacancy(Vacancy):
     """ HeadHunter Vacancy """
 
     def __str__(self):
         return f'HH: {self.name}, зарплата: {self.salary} руб/мес'
 
 
-
-class SJVacancy(Vacancy):  # add counter mixin
+class SJVacancy(Vacancy):
     """ SuperJob Vacancy """
 
     def __str__(self):
@@ -43,7 +35,14 @@ class SJVacancy(Vacancy):  # add counter mixin
 #     """ Должен сортировать любой список вакансий по ежемесячной оплате (gt, lt magic methods) """
 #     pass
 #
-#
-# def get_top(vacancies, top_count):
-#     """ Должен возвращать {top_count} записей из вакансий по зарплате (iter, next magic methods) """
-#     pass
+
+
+
+
+    # if len(top_vacancies) == 0:
+    #     return "В вакансиях не указана зарплата"
+    # else:
+    #     return get_vacancies(top_vacancies)
+
+# def get_top(data, top_count):
+#     """ Должен возвращать {top_count} записей из вакансий по зарплате (iter, next magic methods) """#     pass

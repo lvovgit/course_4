@@ -1,10 +1,7 @@
 import json
 import os
 from abc import abstractmethod, ABC
-
-
 import requests
-
 from connector import Connector
 
 
@@ -35,6 +32,7 @@ class HH(Engine):
             'per_page': 100,
             'area': 113,
             'page': 0
+
 
         }
 
@@ -80,8 +78,7 @@ class HH(Engine):
                 if vacancy.get('salary') is not None and vacancy.get('salary').get('currency') == 'RUR':
                     vacancies.append(self.get_info_vacancy(vacancy))
 
-            self.params[
-                'page'] += 1  # Увеличиваем значение параметра 'page' после обработки всех вакансий на текущей странице
+            self.params['page'] += 1  # Увеличиваем значение параметра 'page' после обработки всех вакансий на текущей странице
 
         print(len(vacancies))
         return vacancies
@@ -154,17 +151,17 @@ class SuperJob(Engine):
         return vacancies
 
 
-# if __name__ == '__main__':
-#     search_keyword = 'Python'
-    # hh = HH(search_keyword)
-    # # k = hh.get_request()
-    # #
-    # # i = hh.get_info_vacancy(k)
-    # # #print(i)
-    # i = hh.get_vacancies
-    # df = Connector('../course_4_parser/filename.json')
+if __name__ == '__main__':
+    search_keyword = 'Python'
+    hh = HH(search_keyword)
+    k = hh.get_request()
 
-    # df.insert(i)
+    #i = hh.get_info_vacancy(k)
+    #print(i)
+    i = hh.get_vacancies
+    df = Connector('../course_4_parser/filename.json')
+
+    df.insert(i)
 
     # sj = SuperJob(search_keyword)
     # k = sj.get_request()

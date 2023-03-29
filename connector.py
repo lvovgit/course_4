@@ -53,7 +53,7 @@ class Connector:
         with open('../course_4_parser/filename.json', 'a', encoding="UTF-8") as file:
             json.dump(data, file, indent=2, ensure_ascii=False)
 
-    def select(self, query):
+    def select(self, query: dict): # query в данном случае словарь
         """
         Выбор данных из файла с применением фильтрации
         query содержит словарь, в котором ключ это поле для
@@ -61,8 +61,20 @@ class Connector:
         {'price': 1000}, должно отфильтровать данные по полю price
         и вернуть все строки, в которых цена 1000
         """
-        pass
+        result = []
+        with open(self.__data_file, 'r', encoding='utf-8') as file:
+            data = json.load(file) # считывает файл и возвразает объекты Python
 
+        if not query:
+            return data
+
+        for item in data:
+            for key, value in query.items():
+                if item.get(key) == value:
+                # if query.get(key) in data and query.get(value) in data:
+                    result.append(item)
+
+        return result
     def delete(self, query):
         """
         Удаление записей из файла, которые соответствуют запрос,
@@ -72,13 +84,15 @@ class Connector:
         pass
 
 
-#if __name__ == '__main__':
-    # df = Connector('df.json')
+if __name__ == '__main__':
+    df = Connector('../course_4_parser/filename.json')
     #
     # data_for_file = {'id': 1, 'title': 'tet'}
     #
     # df.insert(data_for_file)
-    # data_from_file = df.select(dict())
+    d = {"from": "SuperJob"}
+    data_from_file = df.select(d)
+    print(data_from_file)
     # assert data_from_file == [data_for_file]
     #
     # df.delete({'id':1})
