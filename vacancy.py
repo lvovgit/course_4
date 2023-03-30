@@ -2,14 +2,14 @@ class Vacancy:
     __slots__ = ('name', 'url', 'description', 'salary', 'date_published')
 
     def __init__(self, data: dict):
-        self.name = data['name']
+        self.name = data.get('name')
         self.url = data['url']
         self.description = data['description']
         self.salary = data.get('salary')
         self.date_published = data['date_published']
 
     def __str__(self):
-        return f'Вакансия - {self.name}, заработная плата - {self.salary()}'
+        return f'Вакансия - {self.name}, заработная плата - {self.salary} \n;'
 
 
 # class ClassMixin:
@@ -19,16 +19,18 @@ class Vacancy:
 
 class HHVacancy(Vacancy):
     """ HeadHunter Vacancy """
-
+    def __repr__(self):
+        return f"HH: {self.name}, зарплата: {self.salary} руб/мес \n;"
     def __str__(self):
-        return f'HH: {self.name}, зарплата: {self.salary} руб/мес'
+        return f'HH: {self.name}, зарплата: {self.salary} руб/мес \n;'
 
 
 class SJVacancy(Vacancy):
     """ SuperJob Vacancy """
-
+    def __repr__(self):
+        return f"SJ: {self.name}, зарплата: {self.salary} руб/мес \n;"
     def __str__(self):
-        return f'SJ: {self.name}, зарплата: {self.salary} руб/мес'
+        return f'SJ: {self.name}, зарплата: {self.salary} руб/мес \n;'
 
 
 # def sorting(vacancies):

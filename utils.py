@@ -1,3 +1,5 @@
+import json
+
 from classes import HH, SuperJob
 from vacancy import HHVacancy, SJVacancy
 
@@ -11,27 +13,25 @@ def check_search(hh: HH, sj: SuperJob) -> bool:
 
 def get_only_str_vacancies(data):
     str_vacancies_list = []
+    hh = HHVacancy
+    sj = SJVacancy
     for item in data:
         if item['from'] == 'HeadHunter':
-            str_vacancies_list.append(HHVacancy(item))
+            str_vacancies_list.append(hh(item))
         else:
-            str_vacancies_list.append(SJVacancy(item))
+            str_vacancies_list.append(sj(item))
     return str_vacancies_list
 
 
 def get_top_vacancies_by_salary(data, top_count):
-    vacancy_list = []
+    vacancy_list_by_salary = []
     for item in data:
-        if item['from'] == 'HeadHunter':
-            vacancy_list.append(HHVacancy(item))
-        else:
-            vacancy_list.append(SJVacancy(item))
-    # for item in data:
-    #     if item.get('salary') is None or data.get('salary').get('from') is None:
-    #         continue
-    #     else:
-    #         vacancy_list.append(item)
-    # Сортировка по зарплате
-    vacancy_list.sort(key=lambda k: k['salary']['from'], reverse=True)
-    top_count_by_salary = vacancy_list[:top_count]
+        if item["salary"] is None:
+            item["salary"] = {}
+            item["salary"]["from"] = 0
+            item["salary"]["to"] = 0
+            vacancy_list_by_salary.append(item)
+
+    vacancy_list_by_salary = sorted(key=lambda k: k["salary"]["from"])
+    top_count_by_salary = vacancy_list_by_salary[:top_count]
     return top_count_by_salary

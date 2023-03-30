@@ -46,12 +46,12 @@ class Connector:
         except Exception:
             print('Файл filename.json поврежден')
 
-    def insert(self, data):
+    def insert(self, path, data):
         """
         Запись данных в файл с сохранением структуры и исходных данных
         """
-        with open('../course_4_parser/filename.json', 'a', encoding="UTF-8") as file:
-            json.dump(data, file, indent=2, ensure_ascii=False)
+        with open(path, 'a', encoding="UTF-8") as file:
+            json.dump(data, file, indent=4, ensure_ascii=False, skipkeys=True, sort_keys=True)
 
     def select(self, query: dict): # query в данном случае словарь
         """
@@ -84,15 +84,15 @@ class Connector:
         pass
 
 
-if __name__ == '__main__':
-    df = Connector('../course_4_parser/filename.json')
-    #
-    # data_for_file = {'id': 1, 'title': 'tet'}
-    #
-    # df.insert(data_for_file)
-    d = {"from": "SuperJob"}
-    data_from_file = df.select(d)
-    print(data_from_file)
+# if __name__ == '__main__':
+#     df = Connector('../course_4_parser/filename.json')
+#     #
+#     # data_for_file = {'id': 1, 'title': 'tet'}
+#     #
+#     # df.insert(data_for_file)
+#     d = {"from": "SuperJob"}
+#     data_from_file = df.select(d)
+#     print(data_from_file)
     # assert data_from_file == [data_for_file]
     #
     # df.delete({'id':1})
