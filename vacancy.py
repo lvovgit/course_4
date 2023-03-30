@@ -19,6 +19,7 @@ class Vacancy:
 
 class HHVacancy(Vacancy):
     """ HeadHunter Vacancy """
+
     def __repr__(self):
         return f"HH: {self.name}, зарплата: {self.salary} руб/мес \n;"
     def __str__(self):
@@ -27,6 +28,7 @@ class HHVacancy(Vacancy):
 
 class SJVacancy(Vacancy):
     """ SuperJob Vacancy """
+
     def __repr__(self):
         return f"SJ: {self.name}, зарплата: {self.salary} руб/мес \n;"
     def __str__(self):

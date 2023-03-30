@@ -24,14 +24,23 @@ def get_only_str_vacancies(data):
 
 
 def get_top_vacancies_by_salary(data, top_count):
-    vacancy_list_by_salary = []
-    for item in data:
-        if item["salary"] is None:
-            item["salary"] = {}
-            item["salary"]["from"] = 0
-            item["salary"]["to"] = 0
-            vacancy_list_by_salary.append(item)
-
-    vacancy_list_by_salary = sorted(key=lambda k: k["salary"]["from"])
+    sorted(data, key=lambda i: i['salary'])
     top_count_by_salary = vacancy_list_by_salary[:top_count]
-    return top_count_by_salary
+    #vacancy_list_by_salary = []
+    #for item in data:
+        # if item["salary"] is None:
+        #     item["salary"] = {}
+        #     item["salary"]["from"] = 0
+        #     item["salary"]["to"] = 0
+        #     vacancy_list_by_salary.append(item)
+
+       #else:
+        #    continue
+        #vacancy_list_by_salary.sort(key=lambda i: i["salary"])
+        #top_count_by_salary = vacancy_list_by_salary[:top_count]
+        #return top_count_by_salary
+  # if item["salary"] is None:
+        #     item["salary"] = {}
+        #     item["salary"]["from"] = 0
+        #     item["salary"]["to"] = 0
+        #     vacancy_list_by_salary.append(item)

@@ -44,7 +44,7 @@ class HH(Engine):
         response.close()
 
         js_hh = json.loads(data)
-        print(js_hh)
+        #print(js_hh)
         return js_hh
 
     # def to_json(self, value):
@@ -80,7 +80,7 @@ class HH(Engine):
 
             self.params['page'] += 1  # Увеличиваем значение параметра 'page' после обработки всех вакансий на текущей странице
 
-        print(len(vacancies))
+        #print(len(vacancies))
         return vacancies
 
         # """Записывает информацию о вакансии в список при наличии сведений о ЗП в рублях"""
@@ -142,7 +142,7 @@ class SuperJob(Engine):
             if not objects:  # Если нет вакансий на странице, выход из цикла
                 break
             for vacancy in objects:
-                if vacancy.get('currency') is not None and vacancy.get('currency') == 'rub':
+                if vacancy.get('payment_from') is not None and vacancy.get('currency') == 'rub':
                     vacancies.append(self.get_info_vacancy(vacancy))
 
             self.params['page'] += 1  # Увеличиваем значение параметра 'page' после обработки всех вакансий на текущей странице
@@ -153,19 +153,19 @@ class SuperJob(Engine):
 
 if __name__ == '__main__':
     search_keyword = 'Python'
-    hh = HH(search_keyword)
-    k = hh.get_request()
+#     hh = HH(search_keyword)
+#     k = hh.get_request()
+#
+#     #i = hh.get_info_vacancy(k)
+#     #print(i)
+#     i = hh.get_vacancies
+#     df = Connector('../course_4_parser/filename.json')
+#
+#     df.insert(i)
 
-    #i = hh.get_info_vacancy(k)
-    #print(i)
-    i = hh.get_vacancies
-    df = Connector('../course_4_parser/filename.json')
-
-    df.insert(i)
-
-    # sj = SuperJob(search_keyword)
-    # k = sj.get_request()
-    # print(k)
+    sj = SuperJob(search_keyword)
+    k = sj.get_request()
+    print(k)
     # # i = sj.get_info_vacancy(k)
     # i = sj.get_vacancies
     # print(len(i))
