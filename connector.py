@@ -20,7 +20,7 @@ class Connector:
 
     @data_file.setter
     def data_file(self, value):
-        # тут должен быть код для установки файла
+
         self.__data_file = value
         self.__connect()
 
@@ -31,20 +31,14 @@ class Connector:
         Также проверить на деградацию и возбудить исключение
         если файл потерял актуальность в структуре данных
         """
-        if not os.path.isfile("../course_4_parser/filename.json"):
+        if not os.path.isfile('../course_4_parser/filename.json'):
             raise FileNotFoundError("Файл filename.json отсутствует")
-        try:
-            with open(self.__data_file, 'r', encoding='windows-1251') as file:
-                json_reader = json.load(file)
-                print(len(json_reader))
-                for i in json_reader:
-                    if i.get('name') < 0:
-                        print('Something wrong')
-                    else:
-                        raise Exception
+        with open(self.__data_file, 'r', encoding="UTF-8") as file:
+            json_reader = json.load(file)
+            print(len(json_reader))
+            if not isinstance(self.__data_file, list):
+                raise Exception('Файл должен содержать список')
 
-        except Exception:
-            print('Файл filename.json поврежден')
 
     def insert(self, path, data):
         """
@@ -62,7 +56,7 @@ class Connector:
         и вернуть все строки, в которых цена 1000
         """
         result = []
-        with open(self.__data_file, 'r', encoding='utf-8') as file:
+        with open(self.__data_file, 'r', encoding="UTF-8") as file:
             data = json.load(file) # считывает файл и возвразает объекты Python
 
         if not query:
@@ -71,30 +65,20 @@ class Connector:
         for item in data:
             for key, value in query.items():
                 if item.get(key) == value:
-                # if query.get(key) in data and query.get(value) in data:
                     result.append(item)
 
         return result
-    def delete(self, query):
-        """
-        Удаление записей из файла, которые соответствуют запрос,
-        как в методе select. Если в query передан пустой словарь, то
-        функция удаления не сработает
-        """
-        pass
 
 
 # if __name__ == '__main__':
-#     df = Connector('../course_4_parser/filename.json')
-#     #
-#     # data_for_file = {'id': 1, 'title': 'tet'}
-#     #
-#     # df.insert(data_for_file)
-#     d = {"from": "SuperJob"}
-#     data_from_file = df.select(d)
-#     print(data_from_file)
-    # assert data_from_file == [data_for_file]
-    #
-    # df.delete({'id':1})
-    # data_from_file = df.select(dict())
-    # assert data_from_file == []
+# df = Connector('../course_4_parser/filename.json')
+# data_for_file = {'id': 1, 'title': 'tet'}
+# df.insert(data_for_file)
+# d = {"from": "SuperJob"}
+# data_from_file = df.select(d)
+# print(data_from_file)
+# assert data_from_file == [data_for_file]
+
+# df.delete({'id':1})
+# data_from_file = df.select(dict())
+# assert data_from_file == []
