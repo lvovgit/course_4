@@ -39,6 +39,7 @@ class Connector:
             if not isinstance(json_reader, list):
                 raise Exception('Файл должен содержать список')
 
+
     def insert(self, path, data):
         """
         Запись данных в файл с сохранением структуры и исходных данных
