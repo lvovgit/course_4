@@ -1,0 +1,1353 @@
+[
+    {
+        "date_puplished": "2023-04-04T17:50:12+0300",
+        "description": "Typescript, Javascript в браузерных приложениях, React и Svelte для реактивности. <highlighttext>Python</highlighttext> + Starlette в серверных приложениях. GraphQL для обмена данными...",
+        "name": "Backend программист Python / Python Backend Developer",
+        "salary": {
+            "currency": "RUR",
+            "from": 50000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78542200"
+    },
+    {
+        "date_puplished": "2023-04-04T18:26:21+0300",
+        "description": "Работка backend части программного обеспечения. Разработка внутренних библиотек. Оптимизация узких мест в основной архитектуре продукта.",
+        "name": "Разработчик Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 200000,
+            "gross": false,
+            "to": 250000
+        },
+        "url": "https://hh.ru/vacancy/78473911"
+    },
+    {
+        "date_puplished": "2023-04-03T10:47:31+0300",
+        "description": "Поддержкой, развитием и оптимизацией существующих проектов. Разработкой новой функциональности и улучшением имеющейся. Работать в тесной связке с frontend-разработчиком (фронт...",
+        "name": "Разработчик Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 90000,
+            "gross": false,
+            "to": 150000
+        },
+        "url": "https://hh.ru/vacancy/77871173"
+    },
+    {
+        "date_puplished": "2023-04-03T21:00:14+0300",
+        "description": "Внимание: с командами не работаем, только с индивидуальными исполнителями. Профессиональный рост и участие в построении архитектур сложных систем.",
+        "name": "Python-разработчик (Django, DRF)",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": false,
+            "to": 220000
+        },
+        "url": "https://hh.ru/vacancy/70705466"
+    },
+    {
+        "date_puplished": "2023-04-04T14:11:59+0300",
+        "description": null,
+        "name": "Junior Python Developer (удаленно)",
+        "salary": {
+            "currency": "RUR",
+            "from": 20000,
+            "gross": false,
+            "to": 40000
+        },
+        "url": "https://hh.ru/vacancy/78896943"
+    },
+    {
+        "date_puplished": "2023-04-03T10:59:45+0300",
+        "description": "Разработка серверного программного обеспечения на языке <highlighttext>Python</highlighttext> (средства защиты информации, средства мониторинга состояния технических и программных средств, управление конфигурациями центра...",
+        "name": "Разработчик Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 150000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78823037"
+    },
+    {
+        "date_puplished": "2023-04-03T15:41:32+0300",
+        "description": "Обязанности web-разработка, 85% backend / 15% database.",
+        "name": "Python Backend Developer / WEB - разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": 300000,
+            "gross": false,
+            "to": 450000
+        },
+        "url": "https://hh.ru/vacancy/72216524"
+    },
+    {
+        "date_puplished": "2023-04-02T14:29:37+0300",
+        "description": "Написание ТЗ по разработке/доработке скриптов на языке <highlighttext>Python</highlighttext> , дальнейшая разработка по этим же ТЗ. Администрирование Ubuntu Server.",
+        "name": "Python разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": 100000,
+            "gross": false,
+            "to": 150000
+        },
+        "url": "https://hh.ru/vacancy/77723429"
+    },
+    {
+        "date_puplished": "2023-04-04T16:13:59+0300",
+        "description": "Разработка бэкенд новых SaaS проектов на <highlighttext>Python</highlighttext>. Поддержка, устранение проблем в ранее разработанном ПО совместно с командой. Рефакторинг и оптимизация...",
+        "name": "Разработчик Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 30000,
+            "gross": false,
+            "to": 80000
+        },
+        "url": "https://hh.ru/vacancy/47668037"
+    },
+    {
+        "date_puplished": "2023-04-02T09:34:10+0300",
+        "description": "Проекты, которые нужно обслуживать: Агрегатор трафика на кредитные продукты банков. Трафик на агрегатор генерируется из разных источников отделом маркетинга, заявка...",
+        "name": "Python разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": 150000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78707642"
+    },
+    {
+        "date_puplished": "2023-04-04T11:02:29+0300",
+        "description": "Разработкой архитектуры, поддержкой, развитием и оптимизацией проектов. Проектированием и развитием архитектуры баз данных. Разработкой новой функциональности и улучшением имеющейся. ",
+        "name": "Python developer (Middle+)",
+        "salary": {
+            "currency": "RUR",
+            "from": 300000,
+            "gross": false,
+            "to": 360000
+        },
+        "url": "https://hh.ru/vacancy/78661254"
+    },
+    {
+        "date_puplished": "2023-04-03T09:18:40+0300",
+        "description": "Участвовать в развитии и запуске продуктов на <highlighttext>Python</highlighttext>. Писать код на <highlighttext>Python</highlighttext>, который легко читать, поддерживать и развивать.",
+        "name": "Python-разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": false,
+            "to": 450000
+        },
+        "url": "https://hh.ru/vacancy/78814000"
+    },
+    {
+        "date_puplished": "2023-04-03T21:25:38+0300",
+        "description": "Разработка систем анализа, обработки и визуализации данных, в т.ч. Big data. Автоматизация бизнес-операций и интеграция с текущими процессами.",
+        "name": "Разработчик C# / Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 300000,
+            "gross": false,
+            "to": 500000
+        },
+        "url": "https://hh.ru/vacancy/71147348"
+    },
+    {
+        "date_puplished": "2023-04-04T15:17:02+0300",
+        "description": "Проекты: \"Большая Птица\" - система онлайн-учёта для бизнеса. Сфера деятельности компании: разработка веб-приложений для учета и документооборота.",
+        "name": "Программист Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": false,
+            "to": 120000
+        },
+        "url": "https://hh.ru/vacancy/78461798"
+    },
+    {
+        "date_puplished": "2023-04-03T17:14:26+0300",
+        "description": "Разработка приложений по формализациям в виде UML-диаграмм или текстовых заданий. Поддержка разработанных решений. Участие в тестировании и разработке документации.",
+        "name": "Программист Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 130000,
+            "gross": false,
+            "to": 130000
+        },
+        "url": "https://hh.ru/vacancy/78853485"
+    },
+    {
+        "date_puplished": "2023-04-03T18:31:02+0300",
+        "description": "Поддержка проекта программы лояльности покупателей. Доработка/ апгрейд действующего функционала программы. Ведение отчетности по запросу пользователей.",
+        "name": "Программист Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 100000,
+            "gross": false,
+            "to": 100000
+        },
+        "url": "https://hh.ru/vacancy/77956088"
+    },
+    {
+        "date_puplished": "2023-04-04T12:04:27+0300",
+        "description": "Разработка модулей обработки (парсинга) данных от источников данных. Разработка и сопровождение аналитических модулей на базе технологий анализа больших данных (в...",
+        "name": "Программист Python (Django)",
+        "salary": {
+            "currency": "RUR",
+            "from": 160000,
+            "gross": false,
+            "to": 180000
+        },
+        "url": "https://hh.ru/vacancy/78665689"
+    },
+    {
+        "date_puplished": "2023-04-04T09:53:49+0300",
+        "description": "Разработка web-проектов на Flask, Django. Разработка парсеров, чат-ботов.",
+        "name": "Python разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": 25000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78016944"
+    },
+    {
+        "date_puplished": "2023-04-03T12:47:25+0300",
+        "description": "Проверяет домашние задания студентов по чек-листу в рамках 24 часов. Дает подробную развивающую обратную связь. Проверяет курсовые работы учеников...",
+        "name": "Наставник курсов по Python разработке",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": false,
+            "to": 100000
+        },
+        "url": "https://hh.ru/vacancy/76767074"
+    },
+    {
+        "date_puplished": "2023-04-04T14:22:57+0300",
+        "description": "<highlighttext>Python</highlighttext> на бэкенде, взаимодействие через GraphQL и REST API. SPA на Vue.js + Typescript на фронте и Quasar как библиотека...",
+        "name": "Разработчик (Backend developer / Python)",
+        "salary": {
+            "currency": "RUR",
+            "from": 100000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78897703"
+    },
+    {
+        "date_puplished": "2023-04-03T13:07:50+0300",
+        "description": "Бэкенд, Средний (Middle). Технологический стек: Фронт: JavaScript, Vue.js. Дополнительные инструкции:",
+        "name": "Back-end-разработчик Python (Django)",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": true,
+            "to": 140000
+        },
+        "url": "https://hh.ru/vacancy/78834496"
+    },
+    {
+        "date_puplished": "2023-04-03T15:32:30+0300",
+        "description": "Мы - команда разработки веб-приложений внутри Научно-технического центра \"Атлас\" в составе корпорации \"Ростех\". Создаем решения для автоматизации бизнес-процессов...",
+        "name": "Junior python разработчик в НТЦ \"Атлас\"",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": false,
+            "to": 100000
+        },
+        "url": "https://hh.ru/vacancy/78846461"
+    },
+    {
+        "date_puplished": "2023-04-04T16:47:41+0300",
+        "description": "Планирование. Проектирование архитектуры. Написание тестов. Написание кода. FastAPI. SQLAlchemy. БД PostgreSQL. Корректировка архитектуры. Написание тестов. Написание кода.",
+        "name": "Python backend developer",
+        "salary": {
+            "currency": "RUR",
+            "from": 120000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78687453"
+    },
+    {
+        "date_puplished": "2023-04-04T16:05:04+0300",
+        "description": "Поддержание производительности, отказоустойчивости и бесперебойности работы проектов. Внедрение нового функционала и оптимизация кода. Разработка микросервисов. Написание API.",
+        "name": "Middle Backend Developer (Python)",
+        "salary": {
+            "currency": "RUR",
+            "from": 120000,
+            "gross": false,
+            "to": 220000
+        },
+        "url": "https://hh.ru/vacancy/78685384"
+    },
+    {
+        "date_puplished": "2023-04-04T11:05:04+0300",
+        "description": "Разработкой архитектуры, поддержкой, развитием и оптимизацией проектов. Проектированием и развитием архитектуры баз данных. Разработкой новой функциональности и улучшением имеющейся. ",
+        "name": "Python developer (Senior)",
+        "salary": {
+            "currency": "RUR",
+            "from": 360000,
+            "gross": false,
+            "to": 480000
+        },
+        "url": "https://hh.ru/vacancy/78661418"
+    },
+    {
+        "date_puplished": "2023-04-03T13:27:51+0300",
+        "description": "Поиск и реализация наиболее оптимальных решений задач бизнеса в рамках разработки приложения. Ожидаем от кандидата инициатив и их реализации по...",
+        "name": "Senior Python+Go developer",
+        "salary": {
+            "currency": "RUR",
+            "from": 300000,
+            "gross": true,
+            "to": 350000
+        },
+        "url": "https://hh.ru/vacancy/78768435"
+    },
+    {
+        "date_puplished": "2023-04-04T11:08:22+0300",
+        "description": "...кросс-платформенных сетевых приложений на <highlighttext>Python</highlighttext> 3.10 с реализацией GUI на базе PyQt5. Проработка специализированных скриптов на <highlighttext>Python</highlighttext>.",
+        "name": "Разработчик Python (PyQt)",
+        "salary": {
+            "currency": "RUR",
+            "from": 150000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78880980"
+    },
+    {
+        "date_puplished": "2023-04-02T16:53:47+0300",
+        "description": "Основные задачи , связаны с оптимизацией рабочих процессов (софты).",
+        "name": "Кодер",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": false,
+            "to": 200000
+        },
+        "url": "https://hh.ru/vacancy/78801240"
+    },
+    {
+        "date_puplished": "2023-03-31T16:53:02+0300",
+        "description": "Участвовать в разработке алгоритмов торговых ботов и анализировать их эффективность. Изучать появляющиеся трендовые технологии и использовать их на практике. ",
+        "name": "Python-разработчик (Junior)",
+        "salary": {
+            "currency": "RUR",
+            "from": 40000,
+            "gross": false,
+            "to": 60000
+        },
+        "url": "https://hh.ru/vacancy/78779580"
+    },
+    {
+        "date_puplished": "2023-04-02T08:43:13+0300",
+        "description": "Разработка и развитие продуктов компании как для внутреннего, так и для коммерческого использования.",
+        "name": "Web Developer (Python/Django)",
+        "salary": {
+            "currency": "RUR",
+            "from": 90000,
+            "gross": false,
+            "to": 140000
+        },
+        "url": "https://hh.ru/vacancy/78703350"
+    },
+    {
+        "date_puplished": "2023-04-03T17:38:37+0300",
+        "description": null,
+        "name": "Разработчик Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 100000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/77234310"
+    },
+    {
+        "date_puplished": "2023-04-04T12:51:07+0300",
+        "description": "Фронт: flutter.",
+        "name": "Разработчик Backend Python / Django",
+        "salary": {
+            "currency": "RUR",
+            "from": 150000,
+            "gross": false,
+            "to": 200000
+        },
+        "url": "https://hh.ru/vacancy/78889887"
+    },
+    {
+        "date_puplished": "2023-04-02T11:57:09+0300",
+        "description": null,
+        "name": "Python-разработчик (Django)",
+        "salary": {
+            "currency": "RUR",
+            "from": 230000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78566673"
+    },
+    {
+        "date_puplished": "2023-04-04T11:19:20+0300",
+        "description": "Сегментация пользователей и анализ пользовательских данных. Проведение ad-hoc исследований и создание аналитических решений для включения в продукт. ",
+        "name": "Data analyst (middle)",
+        "salary": {
+            "currency": "RUR",
+            "from": 180000,
+            "gross": false,
+            "to": 300000
+        },
+        "url": "https://hh.ru/vacancy/77790199"
+    },
+    {
+        "date_puplished": "2023-04-03T08:23:59+0300",
+        "description": "Анализ данных (выявление ошибок в работе специалистов контактных центров Сбербанка). Ad hoc аналитика по запросам. Разработка отклонений для ИСУ.",
+        "name": "Разработчик ИСУ (SQL/Python)",
+        "salary": {
+            "currency": "RUR",
+            "from": 66000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78810754"
+    },
+    {
+        "date_puplished": "2023-04-02T17:17:03+0300",
+        "description": "Разрабатывать новые сервисы. Участвовать в проектировании архитектуры системы. Проводить code review, рефакторить код, писать тесты. Искать узкие места и улучшать...",
+        "name": "Python developer (FastAPI)",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": false,
+            "to": 250000
+        },
+        "url": "https://hh.ru/vacancy/78739557"
+    },
+    {
+        "date_puplished": "2023-04-04T15:21:35+0300",
+        "description": "Писать unit-тесты. Использовать mongodb. Описывать контейнеры в Dockerfile, docker-compose.yml. Разрабатывать back платформы. Участвовать в проектировании бизнес-логики. ",
+        "name": "Разработчик Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": true,
+            "to": 150000
+        },
+        "url": "https://hh.ru/vacancy/78902269"
+    },
+    {
+        "date_puplished": "2023-04-04T11:24:52+0300",
+        "description": "Работать с данными разной модальности - табличными, графовыми, текстовыми, изображениями и видео. Самостоятельно формулировать гипотезы и проверять их, конструировать фичи, проводить...",
+        "name": "Machine Learning Engineer (middle/senior)",
+        "salary": {
+            "currency": "RUR",
+            "from": 250000,
+            "gross": false,
+            "to": 380000
+        },
+        "url": "https://hh.ru/vacancy/77921941"
+    },
+    {
+        "date_puplished": "2023-04-03T10:33:25+0300",
+        "description": "Корпоративный портал с материалами для изучения любого нового стека и повышения уровня по своей специальности и не только. ",
+        "name": "Python Developer",
+        "salary": {
+            "currency": "RUR",
+            "from": 200000,
+            "gross": true,
+            "to": 340000
+        },
+        "url": "https://hh.ru/vacancy/78820362"
+    },
+    {
+        "date_puplished": "2023-04-03T10:32:31+0300",
+        "description": "Корпоративный портал с материалами для изучения любого нового стека и повышения уровня по своей специальности и не только. ",
+        "name": "Python Developer",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": true,
+            "to": 340000
+        },
+        "url": "https://hh.ru/vacancy/78820290"
+    },
+    {
+        "date_puplished": "2023-04-03T12:18:05+0300",
+        "description": "Разработка архитектуры нового продукта без груза legacy. Интеграция с различными системами внутри банка: rest, брокеры сообщений, очереди. Постоянное добавление новых...",
+        "name": "Senior Python developer",
+        "salary": {
+            "currency": "RUR",
+            "from": 350000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/76797183"
+    },
+    {
+        "date_puplished": "2023-04-04T17:20:46+0300",
+        "description": "Paзpaбoтkа peшeнuй для aвтoмaтuзaции бизнес задач компании. Работа с технической документацией.",
+        "name": "Разработчик автоматизации SQL / Python",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": true,
+            "to": 210000
+        },
+        "url": "https://hh.ru/vacancy/78909670"
+    },
+    {
+        "date_puplished": "2023-04-02T14:18:29+0300",
+        "description": "Проектированием программных решений. Разработкой ПО. Написанием тестов. Работаешь с Redis, Elastic и иными noSQL-решениями. Работаешь с брокерами очередей Celery...",
+        "name": "Backend Developer на Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 150000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78090926"
+    },
+    {
+        "date_puplished": "2023-04-03T11:15:03+0300",
+        "description": null,
+        "name": "Разработчик бэкэнд (Python)",
+        "salary": {
+            "currency": "RUR",
+            "from": 150000,
+            "gross": false,
+            "to": 180000
+        },
+        "url": "https://hh.ru/vacancy/77873430"
+    },
+    {
+        "date_puplished": "2023-04-02T18:02:42+0300",
+        "description": null,
+        "name": "Senior Python разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": 300000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/77179552"
+    },
+    {
+        "date_puplished": "2023-04-03T11:06:10+0300",
+        "description": "Извлечение, преобразование, загрузка данных и их обработка (ETL/ELT). Формирование отчетов, визуализация данных. Создание и развитие процессов управления данными и...",
+        "name": "Data Engineer",
+        "salary": {
+            "currency": "RUR",
+            "from": 250000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78613909"
+    },
+    {
+        "date_puplished": "2023-03-31T18:43:37+0300",
+        "description": "Придумывать и внедрять новые применения для LLM. Выводить в прод все, что мы обучим. Обучать и тюнить существующие модели. ",
+        "name": "Machine Learning Engineer (ML)",
+        "salary": {
+            "currency": "RUR",
+            "from": 250000,
+            "gross": true,
+            "to": 300000
+        },
+        "url": "https://hh.ru/vacancy/78786735"
+    },
+    {
+        "date_puplished": "2023-04-04T16:16:36+0300",
+        "description": "Премии за привлечение новых сотрудников и новых клиентов. Проводим митапы по <highlighttext>Python</highlighttext>. Вы можете быть как и слушателем, так и...",
+        "name": "Python backend developer",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": false,
+            "to": 300000
+        },
+        "url": "https://hh.ru/vacancy/78295154"
+    },
+    {
+        "date_puplished": "2023-04-04T10:13:48+0300",
+        "description": "Построение моделей эластичности спроса на банковские продукты и моделей прогнозирования в ритейле в т.ч. с учётом гео-аналитических данных. ",
+        "name": "Эконометрист/Data scientist (Junior/Middle) в консалтинг",
+        "salary": {
+            "currency": "RUR",
+            "from": 40000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78876532"
+    },
+    {
+        "date_puplished": "2023-04-03T09:46:21+0300",
+        "description": "Актуальные технологии, которые используем на проектах: Front-End: React Js, Vue.JS.",
+        "name": "Middle/Middle+Python разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": 140000,
+            "gross": true,
+            "to": 220000
+        },
+        "url": "https://hh.ru/vacancy/78816308"
+    },
+    {
+        "date_puplished": "2023-04-02T11:27:48+0300",
+        "description": "Опыт разворачивания, настройки, мониторинга и передачи на поддержку разработанных решений. Обязанности: Разработка backend для клиент-серверных приложений в координации с...",
+        "name": "Middle Python Developer",
+        "salary": {
+            "currency": "RUR",
+            "from": 150000,
+            "gross": false,
+            "to": 220000
+        },
+        "url": "https://hh.ru/vacancy/77708946"
+    },
+    {
+        "date_puplished": "2023-04-04T18:02:49+0300",
+        "description": "Разработка API. Разработка архитектурных решений действующего проекта. Интеграции с внешними сервисами. Работа с базами данных. Работа с брокерами сообщений.",
+        "name": "Python developer middle+ / senior",
+        "salary": {
+            "currency": "RUR",
+            "from": 200000,
+            "gross": false,
+            "to": 350000
+        },
+        "url": "https://hh.ru/vacancy/78911462"
+    },
+    {
+        "date_puplished": "2023-04-03T11:51:22+0300",
+        "description": "Корпоративный портал с материалами для изучения любого нового стека и повышения уровня по своей специальности и не только. ",
+        "name": "Python Developer",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": true,
+            "to": 340000
+        },
+        "url": "https://hh.ru/vacancy/78827749"
+    },
+    {
+        "date_puplished": "2023-04-03T10:11:09+0300",
+        "description": "Выверенный годами баланс между дисциплиной и свободой.",
+        "name": "Middle разработчик Python / Django",
+        "salary": {
+            "currency": "RUR",
+            "from": 60000,
+            "gross": false,
+            "to": 140000
+        },
+        "url": "https://hh.ru/vacancy/78818283"
+    },
+    {
+        "date_puplished": "2023-04-02T10:54:08+0300",
+        "description": "Извлечение, преобразование, загрузка данных и их обработка. Формирование отчетов, визуализация данных. Общение с представителями заказчика, формализация требований к проектам. ",
+        "name": "Аналитик данных",
+        "salary": {
+            "currency": "RUR",
+            "from": 110000,
+            "gross": true,
+            "to": 250000
+        },
+        "url": "https://hh.ru/vacancy/78075399"
+    },
+    {
+        "date_puplished": "2023-04-03T10:05:23+0300",
+        "description": "Разрабатывать новый функционал. Проводить code review. Участвовать в проектировании и анализе архитектуры решений. Писать unit-тесты.",
+        "name": "Ведущий Python разработчик (удаленно, из любой точки мира)",
+        "salary": {
+            "currency": "RUR",
+            "from": 250000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78754688"
+    },
+    {
+        "date_puplished": "2023-04-03T15:18:49+0300",
+        "description": "Написание программного кода с использованием языка программирования <highlighttext>Python</highlighttext>. Оформление программного кода в соответствии с установленными требованиями. Работа с системой управления...",
+        "name": "Разработчик Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 120000,
+            "gross": true,
+            "to": 300000
+        },
+        "url": "https://hh.ru/vacancy/76718141"
+    },
+    {
+        "date_puplished": "2023-03-30T19:17:41+0300",
+        "description": "написание новых модулей для backend (<highlighttext>python</highlighttext>, django), доработка существующих. - взаимодействие со сторонними сервисами для написания интеграций (интеграции с SIP телефониями...",
+        "name": "Стажер-программист Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 40000,
+            "gross": true,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/78742845"
+    },
+    {
+        "date_puplished": "2023-04-03T11:27:16+0300",
+        "description": "Корпоративный портал с материалами для изучения любого нового стека и повышения уровня по своей специальности и не только. ",
+        "name": "Python developer",
+        "salary": {
+            "currency": "RUR",
+            "from": null,
+            "gross": true,
+            "to": 340000
+        },
+        "url": "https://hh.ru/vacancy/78825512"
+    },
+    {
+        "date_puplished": "2023-04-01T20:53:08+0300",
+        "description": "Проверка продуктовых гипотез. Проведение Ad-hoc аналитики для поддержки принятия бизнес-решений. Поиск и исследование источников данных. Разработка и валидация...",
+        "name": "Аналитик данных / Data Analyst",
+        "salary": {
+            "currency": "RUR",
+            "from": 160000,
+            "gross": false,
+            "to": 200000
+        },
+        "url": "https://hh.ru/vacancy/78543274"
+    },
+    {
+        "date_puplished": "2023-04-04T07:51:43+0300",
+        "description": "В отдел разработки автоматизированных систем управления. В проект разработки автоматизированной системы управления связью. - Backend разработка. - Реализация бизнес-логики. - ",
+        "name": "Инженер-программист / Бэкенд-разработчик на Python",
+        "salary": {
+            "currency": "RUR",
+            "from": 50000,
+            "gross": false,
+            "to": null
+        },
+        "url": "https://hh.ru/vacancy/70975727"
+    },
+    {
+        "date_puplished": "2023-04-03T07:37:09+0300",
+        "description": "Разработка продуктов экосистемы EvaTeam (направление Service Desk). Развивать основной функционал Service Desk проекта. Участие в улучшении и доработке текущей архитектуры. ",
+        "name": "Senior Python разработчик",
+        "salary": {
+            "currency": "RUR",
+            "from": 200000,
+            "gross": false,
+            "to": 350000
+        },
+        "url": "https://hh.ru/vacancy/78808681"
+    },
+    {
+        "date_puplished": "2023-04-02T14:17:09+0300",
+        "description": "Мероприятия для поддержания хорошего настроения (корпоративы, презентации новых IT-продуктов, сюрпризы). ∙ Разработка архитектуры решений по загрузке данных в кластер. ∙ ",
+        "name": "Data Engineer / Дата-инженер (Middle)",
+        "salary": {
+            "currency": "RUR",
+            "from": 250000,
+            "gross": true,
+            "to": 300000
+        },
+        "url": "https://hh.ru/vacancy/77722681"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://dolgoprudniy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454752.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://arhangelskaya-oblast-oktyabrskiy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454753.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://dimitrovgrad.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454754.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://essentuki.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454755.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://kamyshin.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454756.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://evpatoriya.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454757.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://zhukovskiy.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454758.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://pushkino.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454759.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://reutov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454760.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://murom.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454761.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://novoshakhtinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454762.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://noyabrsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454763.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://seversk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454764.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://artem.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454765.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://achinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454766.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://arzamas.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454767.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://berdsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454768.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://noginsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454769.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://elista.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454770.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://yelets.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454771.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://khanty-mansiisk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454772.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://zelenodolsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45454773.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://www.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455010.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://spb.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455011.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://nsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455012.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://ekaterinburg.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455013.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://kazan.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455014.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://nn.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455015.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://chelyabinsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455016.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://samara.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455017.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://omsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455018.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://rnd.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455019.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://ufa.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455020.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://krasnoyarsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455021.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://voronezh.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455022.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://perm.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455023.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://volgograd.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455024.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://krasnodar.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455025.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://saratov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455026.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://tyumen.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455027.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://tolyatti.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455028.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://izhevsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455029.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://barnaul.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455030.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://ulyanovsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455031.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://irkutsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455032.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://habarovsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455033.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://yaroslavl.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455034.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://vladivostok.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455035.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://makhachkala.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455036.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://tomsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455037.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://orenburg.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455038.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://kemerovo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455039.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://novokuznetsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455040.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://ryazan.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455041.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://naberezhnye-chelny.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455042.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://astrakhan.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455043.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://penza.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455044.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://kirov.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455045.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://lipetsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455046.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://balashiha.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455047.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://cheboksary.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455048.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://kaliningrad.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455049.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://tula.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455050.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://kursk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455051.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://stavropol.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455052.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://sevastopol.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455053.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://sochi.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455054.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://ulan-ude.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455055.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://tver.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455056.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://magnitogorsk.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455057.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Специалист службы поддержки с техническими знаниями",
+        "salary": 39000,
+        "url": "https://ivanovo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-45455058.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Менеджер по работе с клиентами",
+        "salary": 45000,
+        "url": "https://perm.superjob.ru/vakansii/menedzher-po-rabote-s-klientami-44458424.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Разработчик ПО",
+        "salary": 200000,
+        "url": "https://www.superjob.ru/vakansii/razrabotchik-po-45548247.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Senior 1С программист",
+        "salary": 200000,
+        "url": "https://www.superjob.ru/vakansii/senior-1s-programmist-45570129.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Учитель по программированию",
+        "salary": 60000,
+        "url": "https://andreevka.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698480.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Учитель по программированию",
+        "salary": 60000,
+        "url": "https://zelenograd.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698481.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Учитель по программированию",
+        "salary": 60000,
+        "url": "https://krasnogorsk.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698482.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Учитель по программированию",
+        "salary": 60000,
+        "url": "https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698483.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Учитель по программированию",
+        "salary": 60000,
+        "url": "https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698484.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Учитель по программированию",
+        "salary": 60000,
+        "url": "https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698485.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Учитель по программированию",
+        "salary": 60000,
+        "url": "https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698486.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Учитель по программированию",
+        "salary": 60000,
+        "url": "https://solnechnogorsk.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698487.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Учитель по программированию",
+        "salary": 60000,
+        "url": "https://himki.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698488.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Учитель по программированию",
+        "salary": 60000,
+        "url": "https://mo.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698489.html"
+    },
+    {
+        "date_puplished": null,
+        "description": null,
+        "name": "Программист Linux",
+        "salary": 500000,
+        "url": "https://www.superjob.ru/vakansii/programmist-linux-45695529.html"
+    }
+]

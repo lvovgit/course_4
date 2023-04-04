@@ -4,7 +4,7 @@ from utils import check_search, get_top_vacancies_by_salary
 
 def main():
 
-    path = os.path.join('../course_4_parser/filename.json')
+    path = os.path.join('data.json')
     connector = Engine.get_connector(path)  # создаем экземпляр класса Connector функцией get_connector из класса Engine
 
     search_keyword = input('Введите ключевое слово поиска')
